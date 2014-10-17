@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cyo:home|Door43 (cyo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cyo|d43-cyo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cyo/archive/master.zip|d43-cyo.zip]]
+
+**Recent Changes**
+{{changes>ns = cyo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cyo|Ethnologue data]]
+
